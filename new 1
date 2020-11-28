@@ -1,0 +1,21 @@
+Split into three major categories Quality, Development and users
+
+Quality
+Visuality appeals to users
+Usability makes usage comfortable
+
+Simplicity means that there are no visual disturbances on the screen, like a frame having twitter posts
+
+Accessibility means that the page is designed so that people with constraints are able to use it,
+like choosing the colors so that color blind people are able to use it properly
+
+Intuitive actions means that what the user expects to happen, happens. If you press a button, it
+does an intuitive thing. This means that signifiers have to be good, and the navigation should be
+easy so that you end up where you want to when you click on something
+
+The other two major categories are Development and Users. Conceptualizing is a part of development
+and it leads to testing. The users participate in those tests. After testing, you get feedback. 
+With testing and feedback, you can adapt the development cycle, and improve the web site.
+
+The users also have demands related to quality and constraints. I could almost draw a line from demands
+to quality, but it would mess this diagram a bit.
