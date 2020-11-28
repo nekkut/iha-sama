@@ -5,16 +5,16 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
 	"test:coveralls": "jest --coverage --coverageReporters=text-lcov | coveralls",
   },
   "author": "",
   "license": "MIT",
   "dependencies": {
     "jest": "^26.5.3",
-    "jest-extended": "^0.11.5"
+    "jest-extended": "^0.11.5",
   },
   "devDependencies": {
-    "coveralls": "^3.1.0"
+    "coveralls": "^3.1.0",
   }
 }
