@@ -1,15 +1,12 @@
 {
-  "name": "software-testing-assignment",
+  "name": "softwareassignment",
   "version": "1.0.0",
   "description": "testi",
   "main": "index.js",
   "type": "module",
   "scripts": {
-  "lint": "eslint '**/*.js'",
-  "lint:fix": "prettier-eslint '**/*.js' --write",
     "test": "jest",
-    "test:coverage": "jest --coverage",
-    "test:coveralls": "jest --coverage --coverageReporters=text-lcov | coveralls -v"
+    "coverage": "npm run test && jest --coverage && coveralls < coverage/lcov.info "
   },
   "author": "ville",
   "license": "MIT",
