@@ -6,7 +6,7 @@
   "type": "module",
   "scripts": {
     "test": "jest",
-	"test:coveralls": "jest --coverage --coverageReporters=text-lcov | coveralls -v"
+    "test:coveralls": "jest --coverage --coverageReporters=text-lcov | coveralls -v"
   },
   "author": "ville",
   "license": "MIT",
